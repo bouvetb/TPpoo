@@ -10,7 +10,7 @@ public class ZooTest {
 	@Test
 	public void testNouveauVisiteur() {
 		zoo = new Zoo();
-		for(int i = 0 ; i<20;i++) {
+		for(int i = 0 ; i<15;i++) {
 			try {
 				zoo.nouveauVisiteur();
 			} catch (LimiteVisiteurException e) {
