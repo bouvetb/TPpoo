@@ -1,0 +1,6 @@
+2019-11-29 16:05:21,860 INFO T.ZooTest [main] nouvel animal TPzoo.Chien@5f8e8a9d 
+2019-11-29 16:05:21,872 TRACE T.ZooTest [main] nouvel animal TPzoo.Chien@5f8e8a9d 
+2019-11-29 16:05:21,872 DEBUG T.ZooTest [main] nouvel animal TPzoo.Chien@5f8e8a9d 
+2019-11-29 16:05:40,212 INFO T.ZooTest [main] nouvel animal TPzoo.Chien@5e50df2e 
+2019-11-29 16:05:40,231 TRACE T.ZooTest [main] nouvel animal TPzoo.Chien@5e50df2e 
+2019-11-29 16:05:40,232 DEBUG T.ZooTest [main] nouvel animal TPzoo.Chien@5e50df2e 
